@@ -37,12 +37,6 @@
 - **[BigClaw](https://github.com/xunfen/BigClaw)** — Java / Spring Boot 多智能体 AI 助手，Agent + Tool 循环架构，开源协议 CC BY-NC-SA 4.0。
 - **ACompete** — 竞赛日历微信小程序：竞赛列表 / 搜索 / 筛选、详情页、发布审核流、微信登录、自定义 tabBar；后端 Node.js + Express + sql.js，另有管理后台。<!-- ACompete 仓库链接待补充 -->
 
-### 最近在折腾
-
-- 备战华为 ICT 大赛（云赛道）省赛：云 40% + 大数据 20% + AI 40%
-- 冲刺软考初级程序员（10 月底机考）
-- 每日跑步打卡：轻松跑、间歇、节奏跑、长距离轮换
-
 ### 联系我
 
 - 个人主页：https://www.594sb.top
