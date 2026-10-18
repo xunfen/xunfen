@@ -1,9 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xunfen)](https://www.bilibili.com/video/BV1Np4y1p72G/?spm_id_from=333.337.search-card.all.click&vd_source=fcdcd6a377111329435f4974f7aef75e)
 ### Hi there, I'm xunfen
 
-计算机科学与技术，大二在读，全栈方向。
-喜欢把想法变成能跑起来的东西——从后端 API 到前端页面，一个人走完全流程。
-课余是个中长跑爱好者，1500 米选手，跑步搭子可约。
+CS专业本科在读
 
 ---
 
